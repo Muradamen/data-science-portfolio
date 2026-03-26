@@ -70,7 +70,7 @@ global-superstore-dashboard/
 
 ## 📸 Dashboard Preview
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.jpg)
 
 ## 💡 Key Insights
 
@@ -101,6 +101,6 @@ git clone https://github.com/Muradamen/data-science-portfolio.git
 ## 👤 Author
 
 Murad Amin
-LinkedIn | Portfolio
+www.linkedin.com/in/muradamin
 
 #ALXProjectPortfolio
